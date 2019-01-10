@@ -1,0 +1,14 @@
+KANSAS RIVER CROSSING,4
+BIG BLUE RIVER CROSSING,3
+*
+*
+*
+GREEN RIVER CROSSING,5
+*
+SNAKE RIVER CROSSING,5
+*
+*
+
+Formatting:
+[RIVER NAME],[DEPTH]
+* are included for indexing 
